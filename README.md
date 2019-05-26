@@ -1,0 +1,2 @@
+# AverageProgram
+Simple Average Calculator
